@@ -10,3 +10,8 @@ go run sample2.go
 ## URL
 http://localhost:1323/
 
+## RUN
+go run sample2-1.go
+
+## URL
+http://localhost:1323/users/sasanori
