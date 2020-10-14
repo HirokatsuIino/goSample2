@@ -15,3 +15,12 @@ go run sample2-1.go
 
 ## URL
 http://localhost:1323/users/sasanori
+
+## RUN
+go run sample2-2.go
+
+## URL
+http://localhost:1323/show?team=team1&member=sasanori
+
+
+
